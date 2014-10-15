@@ -49,8 +49,8 @@ text-align: center;
 
 @media screen and (min-width: 600px){
     .col-2{
-    float:left;
-    width: 50%;
-    padding: 2rem;
-}
+        float:left;
+        width: 50%;
+        padding: 2rem;
+    }
 }
